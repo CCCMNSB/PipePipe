@@ -1,6 +1,6 @@
 NewPipe, reimagined: faster, more stable, and packed with more features.
 
-** Beyond NewPipe **
+<b>Beyond NewPipe</b>
 
 * SponsorBlock (YouTube & BiliBili)
 * ReturnYouTubeDislike
@@ -12,4 +12,4 @@ NewPipe, reimagined: faster, more stable, and packed with more features.
 * Sleep timer
 * Fullscreen gestures
 * Login to watch restricted / premium contents
-* ... and many minor improvements
+* … and many minor improvements
