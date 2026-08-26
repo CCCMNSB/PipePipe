@@ -171,7 +171,7 @@ cd PipePipeClient
 
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) — PipePipe 作者
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) — NewPipe 原作者
-- 本项目仅在其上增加"弹幕翻译"功能，**所有上游代码版权归原作者所有**。
+- 本项目仅在其上增加"弹幕翻译"和"字幕加载"功能，**所有上游代码版权归原作者所有**。
 
 **License**: GPL-3.0 · [LICENSE](LICENSE)
 
