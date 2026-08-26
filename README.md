@@ -7,6 +7,20 @@ NewPipe, reimagined: faster, more stable, and packed with more features.</h4>
 <a href="https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced"><img src="assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" width="207" /></a></p>
 <hr>
 
+## ⭐ 本 fork 新增：弹幕（danmaku）自动翻译
+
+> 这是一个 **带弹幕自动翻译功能的 PipePipe fork**（非官方个人 fork）。
+> 源码：`github.com/CCCMNSB/PipePipe`（含 PipePipeClient / PipePipeExtractor 子模块）。
+
+- **功能**：下载视频**完整弹幕列表** → 去重翻译（**LLM（推荐）** / ML Kit）→ **缓存** → **按时间轴自动加载**；再次进入自动加载缓存。
+- ⚠️ **仅支持「直播回放」**，**不支持正在直播**（全量下载依赖已完成的回放）。
+- **翻译引擎**：**推荐 LLM**（DeepSeek 云端或本地 Ollama/llama.cpp；`settings → 弹幕设置 → 翻译引擎 = LLM`，填 base/key/model）。国内手机无 Google 服务也能用。ML Kit（离线）需 Google 服务，不推荐。
+- **非官方 / 不维护 / vibe coding（AI 生成）**：仅供个人 fork 自用，可能有 bug。
+- **遵循 GPL-3.0**：保留原作者署名（[InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) → [NewPipe](https://github.com/TeamNewPipe/NewPipe)），分发时随 APK 提供源码。
+- **更新**：App 内"检查更新"指向本仓库 Releases。发布新版时建 Release（名 `v5.x.x` + ABI 文件名 + 同一串签名 APK），用户即可一键更新。
+
+> 以下内容为**上游 PipePipe 的原版说明**（未改动，仅在其上新增了上述弹幕翻译功能）。
+
 ## Beyond NewPipe
 
 #### YouTube Enhancements
