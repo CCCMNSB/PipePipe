@@ -1,7 +1,5 @@
 
-<div align=center>
-**[中文](README.md) &nbsp;|&nbsp; [English](README_en.md) &nbsp;|&nbsp; [原版描述](README_original.md)**
-</div>
+**中文 | [English](README_en.md) | [原版描述](README_original.md)**
 
 <hr>
 
