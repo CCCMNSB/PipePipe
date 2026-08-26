@@ -1,3 +1,6 @@
 /.idea
 /web
 /nightly
+*.apk
+*.patch
+
