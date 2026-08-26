@@ -1,7 +1,7 @@
 
 # PipePipe-DanmakuTranslate
 
-> 一个给 **PipePipe**（NewPipe 的 fork）添加 **弹幕（danmaku）自动翻译** 的**非官方个人 fork**。
+> 一个给 **PipePipe**（NewPipe 的 fork）添加 **Youtube弹幕（danmaku）自动翻译** 的**非官方个人 fork**。
 > 本项目仅供作者自用 / 学习交流，**不保证维护**。
 
 ---
