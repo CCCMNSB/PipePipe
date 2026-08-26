@@ -1,8 +1,4 @@
 
-**中文 | [English](README_en.md) | [原版描述](README_original.md)**
-
-<hr>
-
 # PipePipe-DanmakuTranslate
 
 > 一个给 **PipePipe**（NewPipe 的 fork）添加 **弹幕（danmaku）自动翻译** 的**非官方个人 fork**。
