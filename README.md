@@ -127,11 +127,9 @@
 
 | 按钮 | 图标 | 功能 |
 |---|---|---|
-| ** <img width="108" height="95" alt="bc" src="https://github.com/user-attachments/assets/c2b1ecf7-67d4-49ee-ae79-cc531897be8a" /> 在线弹幕 (ASS)** | 💬 | 加载在线 ASS 弹幕（`\move` 滚动弹幕）。**首次点击**：检查本地缓存 → 有则直接加载（秒开）；无则从字幕仓库下载 `danmaku/<视频ID>.ass` 并缓存。**再次点击**：显示/隐藏（不重新下载）。换视频自动清空。 |
-| **字幕** | <img width="87" height="82" alt="sub" src="https://github.com/user-attachments/assets/8614e518-a566-4992-8ca6-e658d4d55dae" />
- | 加载在线字幕（`.ass` / `.srt`），叠加显示。**再点**：显示/隐藏。**长按**：循环切换字幕字号 50% → 80% → 120%（默认 80%，记住选择）。 |
-| **➕ 本地字幕** | <img width="77" height="77" alt="+" src="https://github.com/user-attachments/assets/d8ca6111-06ad-4878-ba20-130c4740fb33" />
- | 打开系统文件选择器，选手机里的 `.ass` / `.srt` 文件，解析后叠加到当前视频。 |
+| **在线弹幕 (ASS)** |  <img width="108" height="95" alt="bc" src="https://github.com/user-attachments/assets/c2b1ecf7-67d4-49ee-ae79-cc531897be8a" />  | 加载在线 ASS 弹幕（`\move` 滚动弹幕）。**首次点击**：检查本地缓存 → 有则直接加载（秒开）；无则从字幕仓库下载 `danmaku/<视频ID>.ass` 并缓存。**再次点击**：显示/隐藏（不重新下载）。换视频自动清空。 |
+| **字幕** | <img width="87" height="82" alt="sub" src="https://github.com/user-attachments/assets/8614e518-a566-4992-8ca6-e658d4d55dae" /> | 加载在线字幕（`.ass` / `.srt`），叠加显示。**再点**：显示/隐藏。**长按**：循环切换字幕字号 50% → 80% → 120%（默认 80%，记住选择）。 |
+| **➕ 本地字幕** | <img width="77" height="77" alt="+" src="https://github.com/user-attachments/assets/d8ca6111-06ad-4878-ba20-130c4740fb33" />| 打开系统文件选择器，选手机里的 `.ass` / `.srt` 文件，解析后叠加到当前视频。 |
 
 ### 在线弹幕 (ASS) 详细说明
 
