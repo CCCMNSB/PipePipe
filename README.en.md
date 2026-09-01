@@ -4,6 +4,8 @@
 > An **unofficial personal fork** of **PipePipe** (a fork of NewPipe) that adds **YouTube danmaku (bullet comment) auto-translation** and **online subtitles**.
 > This project is for the author's personal use / learning purposes. **No maintenance is guaranteed**.
 
+**📄 Language / 语言**: [中文](README.md) | [English](README.en.md)
+
 ---
 
 ## ⚠️ Important Disclaimer (Read First)
