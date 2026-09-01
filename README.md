@@ -97,9 +97,9 @@
 ### 3. 字幕仓库（怎么添加自己的字幕）
 - 结构（公开示例：`github.com/CCCMNSB/subtitles`）：
   ```
+  danmaku/<视频ID>.ass
   subtitles/<视频ID>.ass|.srt   ← 字幕文件（以视频 ID 命名）
   index/index.json              ← 清单 [{id, title, date}]，顺序即显示顺序
-  generate-index.ps1            ← 扫描生成 index.json（标题用 oEmbed，保留已有 title）
   ```
 - 每新增一部视频的字幕：把 `<视频ID>.ass` 放进 `subtitles/`，并在 `index.json` 加一条 `{id, title, date}`。`title` 可写你的翻译，App 直接显示/搜索，**不走任何 API**。
 - 跳转列表**只读 `index.json`**，所以 `index.json` 里没有的视频不会出现在列表里。
