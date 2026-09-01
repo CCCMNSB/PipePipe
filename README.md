@@ -1,4 +1,4 @@
-<img width="77" height="77" alt="54b7a69365aab2d44381eb2df30b8682" src="https://github.com/user-attachments/assets/9d65549d-2c6d-4c8b-91b4-4b01cc6c391d" />
+
 
 # PipePipe-DanmakuTranslate
 
